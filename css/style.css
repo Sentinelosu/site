@@ -1,11 +1,11 @@
 @font-face {
     font-family: mono;
-    src: url("/site/fonts/mono.ttf"); 
+    src: url("https://sentinelosu.github.io/site/fonts/mono.ttf"); 
   }
 
 @font-face {
     font-family: derk;
-    src: url("/site/fonts/derk.otf");
+    src: url("https://sentinelosu.github.io/site/fonts/derk.otf");
   }
     html {
     font-family: mono;
