@@ -1,11 +1,11 @@
 @font-face {
     font-family: mono;
-    src: url("/fonts/mono.ttf"); 
+    src: url("/site/fonts/mono.ttf"); 
   }
 
 @font-face {
     font-family: derk;
-    src: url("/fonts/derk.otf");
+    src: url("/site/fonts/derk.otf");
   }
     html {
     font-family: mono;
